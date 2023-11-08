@@ -18,3 +18,36 @@ html {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+/* 
+   HEADER
+*/
+.head-container{
+    text-align: right;
+    color: white;
+
+    background-color: black;
+}
+
+.head-container button {
+    background-color: grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+.head-container i {
+    color: white;
+}
+
+/* 
+   MAIN
+*/
+
+
+/* 
+   FOOTER
+*/
+
+
+/* 
+   DEBUG
+*/
